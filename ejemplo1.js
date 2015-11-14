@@ -1,0 +1,10 @@
+console.log("suma de numeros 7+ 1 = "+ (7 + 1));
+console.log("suma de numeros 7+ 2 = "+ (7 + 2));
+console.log("suma de numeros 7+ 3 = "+ (7 + 3));
+console.log("suma de numeros 7+ 4 = "+ (7 + 4));
+console.log("suma de numeros 7+ 5 = "+ (7 + 5));
+console.log("suma de numeros 7+ 6 = "+ (7 + 6));
+console.log("suma de numeros 7+ 7 = "+ (7 + 7));
+console.log("suma de numeros 7+ 8 = "+ (7 + 8));
+console.log("suma de numeros 7+ 9 = "+ (7 + 9));
+console.log("suma de numeros 7+ 10 = "+ (7 + 10));

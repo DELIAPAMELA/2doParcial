@@ -1,0 +1,1 @@
+console.log((2!==2)?"La operacion es verdadera":"La operacion no es verdadera");
